@@ -6,8 +6,8 @@
 // @author       crippti
 // @match        *://*.hamsterkombat.io/*
 // @grant        none
-// @downloadURL  https://raw.githubusercontent.com/crippti/hamster-kombat/master/scripts/hamster-kombat-inject.js
-// @updateURL    https://raw.githubusercontent.com/crippti/hamster-kombat/master/scripts/hamster-kombat-inject.js
+// @downloadURL  https://raw.githubusercontent.com/crippti/hamster-kombat/master/scripts/hamster-kombat-inject.user.js
+// @updateURL    https://raw.githubusercontent.com/crippti/hamster-kombat/master/scripts/hamster-kombat-inject.user.js
 // @homepage     https://github.com/crippti/hamster-kombat
 // ==/UserScript==
 
