@@ -1,4 +1,6 @@
 (function () {
+    const click_interval = 70
+    
     function center(start, length) {
         return (length + start) / 2
     }
@@ -15,5 +17,5 @@
             document.getElementsByClassName('user-tap-button')[0].dispatchEvent(evt2);
         }
         return fn;
-    })(), 70);
+    })(), click_interval);
 })();
