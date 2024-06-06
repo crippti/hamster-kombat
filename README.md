@@ -40,6 +40,10 @@
 > [!TIP]
 > Частоту клика можно регулировать переменной `click_interval` в файле.
 
+> [!WARNING]
+> Если вкладка долго неактивна, то скрипт перестает выполняться.
+> Сейчас эта проблема не решена, но вот возможное решение https://support.google.com/chrome/answer/12929150?hl=en#zippy=%2Cturn-memory-saver-on-or-off.
+
 ## Контакты
 Телеграмм канал разработчика: [@crippti](https://t.me/crippti).
 Чат где можно задать вопрос: https://t.me/+p7qNwbQSnlJhNjE6
