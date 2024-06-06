@@ -21,9 +21,11 @@
 - [`scripts`](scripts/) содержит скрипты, которые не должны запускаться вручную пользователем.
 
 ## Запуск Hamster Kombat на ПК
+> **Если вы еще не запускали Hamster Kombat, то можете поддержать разработчика перейдя по [рефке](https://t.me/hamster_kOmbat_bot/start?startapp=kentId6545472905) в Hamster Kombat.**
+
 Для запуска Hamster Kombat в Telegram Web нужно использовать расширение, которое подменяет оригинальные скрипты игры на наши.
 1. Устанавливаем расширение [`ViolentMonkey`](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
-2. Устанавливаем [/scripts/hamster-kombat-inject.user.js](scripts/hamster-kombat-inject.user.js) для ViolentMonkey (нажатие на ссылку начнет установку скрипта).
+2. Устанавливаем [`scripts/hamster-kombat-inject.user.js`](https://github.com/crippti/hamster-kombat/raw/master/scripts/hamster-kombat-inject.user.js) для ViolentMonkey (нажатие на ссылку начнет установку скрипта).
 
 :white_check_mark: **Теперь Hamster Kombat запускается в Telgram Web.**
 
@@ -38,4 +40,5 @@
 > [!TIP]
 > Частоту клика можно регулировать переменной `click_interval` в файле.
 
-## 
+## Контакты
+Телеграмм канал разработчик: [@crippti](https://t.me/crippti).
