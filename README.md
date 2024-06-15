@@ -33,9 +33,16 @@
 **Автокликер** - скрипт, который бесконечно кликает на хомячка, даже если вы сворачиваете окно.
 
 ### Запуск
-1. Откройте Hamster Kombat в Telegram Web и откройте DevTools (`CTRL+C`), также известный как `Просмотреть код`.  
+1. Откройте Hamster Kombat в Telegram Web и откройте DevTools (`CTRL+SHIFT+I`), также известный как `Просмотреть код`.  
 2. Скопируйте [скрипт кликера](/devtools_console/autoclicker.js).
 3. В DevTools перейдите во вкладку `Консоль` (`Console`) и вставьте скопированный скрипт туда и нажмите `Enter`.
+> [!NOTE]
+> Вероятно вылезет сообщение на желтом фоне с текстом:
+> ```
+> Warning: Don’t paste code into the DevTools Console that you don’t understand or haven’t reviewed yourself. This could allow attackers to steal your identity or take control of your computer. Please type ‘allow pasting’ below and hit Enter to allow pasting.
+> ```
+> Это означает, что вы не можете вставлять текст в консоль. Чтобы вернуть себе эту возможность, напишите в консоль `allow pasting` и нажмите `Enter`.
+
 
 > [!TIP]
 > Частоту клика можно регулировать переменной `click_interval` в файле.
